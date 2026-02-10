@@ -1,2 +1,3 @@
-# learning-to-code
+# learning to code
 My beginner Python coding journey
+hello.py
